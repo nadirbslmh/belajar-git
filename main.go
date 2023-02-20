@@ -7,6 +7,7 @@ func main() {
 
 	fmt.Println(add(3, 4))
 	fmt.Println(substract(12, 9))
+	fmt.Println(multiply(2, 3))
 }
 
 func add(a, b int) int {
