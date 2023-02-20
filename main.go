@@ -29,3 +29,7 @@ func div(a, b int) int {
 
 	return a / b
 }
+
+func mod(a, b int) int {
+	return a % b
+}
