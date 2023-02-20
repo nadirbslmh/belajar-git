@@ -6,6 +6,7 @@ func main() {
 	fmt.Println("welcome to calculator app")
 
 	fmt.Println(add(3, 4))
+	fmt.Println(substract(12, 9))
 }
 
 func add(a, b int) int {
