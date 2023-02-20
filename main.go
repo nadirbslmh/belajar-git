@@ -13,6 +13,7 @@ func main() {
 	fmt.Println(add(a, b))
 	fmt.Println(substract(a, b))
 	fmt.Println(multiply(a, b))
+	fmt.Println(div(a, b))
 }
 
 func add(a, b int) int {
